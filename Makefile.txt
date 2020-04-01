@@ -1,0 +1,2 @@
+serve: goserver/goserver
+	./goserver/goserver
